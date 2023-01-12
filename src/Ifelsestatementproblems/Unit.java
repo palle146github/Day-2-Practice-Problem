@@ -15,12 +15,9 @@ public class Unit {
         else if ( digit == 100){
             System.out.println("Hundred");}
         else if ( digit == 1000){
-            System.out.println("Ten Hundred");}
+            System.out.println("Thousand");}
         else {
             System.out.println("Limit Exceed");}
-
-
-
     }
     }
 
